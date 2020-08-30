@@ -1,1 +1,7 @@
+$homeBtn: #ff0000;
+
+$theme-colors: (
+  'home': $homeBtn,
+);
+
 @import '~bootstrap/scss/bootstrap';
