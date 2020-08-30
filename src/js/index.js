@@ -1,5 +1,6 @@
 import 'bootstrap';
 import '../css/styles.scss';
+import '../assets/paul-lequay.jpg';
 
 const elModalOpen = document.querySelector('#modal-open');
 elModalOpen.addEventListener('click', () => {
