@@ -15,7 +15,7 @@ module.exports = {
       template: './src/index.html',
     }),
     new MiniCssExtractPlugin({
-      flinename: 'styles.css',
+      filename: 'styles.css',
     }),
     new webpack.ProvidePlugin({
       $: 'jquery',
